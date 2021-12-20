@@ -21,6 +21,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### The challenge
 
+
 - Build out the project to the designs provided
 
 ### Screenshot
@@ -31,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL](https://github.com/salahudheen007/frontendMentor-profile-card-component-main/)
+- Live Site URL: [ live site ](https://salahudheen007.github.io/frontendMentor-profile-card-component-main/)
 
 ## My process
 
